@@ -1,0 +1,4 @@
+﻿version,change_tested,rmse_2d_m,rmse_3d_m,input_coverage_percent,solved_epochs,input_epochs,rmse_status
+v1,GPS-only WLS with elevation weighting,,,93.676662,1437,1534,not available: benchmark ground truth is withheld
+v2,v1 + residual-based robust down-weighting,,,93.676662,1437,1534,not available: benchmark ground truth is withheld
+v3,v2 + geometry-aware residual standardisation,,,93.676662,1437,1534,not available: benchmark ground truth is withheld
